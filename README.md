@@ -12,6 +12,8 @@ This tools can show
 * Theoretical amount of multiply-adds (MAdd)
 * Memory usage
 
+(Update: FIX BUG **AttributeError: 'torch.Size' object has no attribute 'numel'**)
+
 ## Installing
 There're two ways to install torchstat into your environment.
 * Install it via pip.
